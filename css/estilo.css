@@ -1,0 +1,220 @@
+body{
+    background-color: rgba(255, 255, 255,1.0);
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+.text-nav{
+    position: relative;
+    color: white;
+    top: -3px;
+    font-size: 0.9em;
+ }
+.fonte{
+    font-size: 0.8em;
+    color: #000;
+
+}
+.text-nav-info{
+    position:relative;
+    color: white;
+    top: -7px;
+    font-size: 0.85em;
+  
+ }
+
+.i{
+    position: relative;
+    color: white;
+    top: -5px;
+ }
+
+.text-info{
+    color: rgba(87, 96, 111,1.0);
+    text-align: justify all;
+    font-size: 0.94em;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-bottom: 5px;
+
+}
+
+nav{
+    background-color: rgba(0, 0, 0,.9);
+    padding: 3px;
+    text-align: center;
+}
+
+nav.info{
+    background-color: rgba(0, 0, 0,.9);
+    padding: 0px;
+}
+
+.info{
+    border-top: solid 1px rgba(99, 110, 114,1.0); 
+}
+
+footer{
+    background-color: rgba(0, 0, 0,.9);
+    color: beige;
+    clear: both;
+    padding: 25px;
+    
+}
+
+.copygrid{
+    border-top: solid 1px rgba(99, 110, 114,1.0); 
+}
+
+.direita{
+    float: right;
+}
+
+.esquerda{
+    float: left;
+    
+    
+}
+ 
+.livros  {
+    width: 24%;
+    margin-left: 7px;
+    border: solid 1px rgba(170, 166, 157,1.0);
+    padding-top: 10px;
+} 
+
+.livros img {
+    width: 65%;
+    height: 65%;
+ }
+
+.lv h2 {
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 177, 66,1.0);
+}
+
+.tit-livro{
+    text-decoration: underline;
+}
+
+
+
+.quem-somos{
+    padding: 5px;
+    border: dotted 2px #837269;
+}
+
+
+.intro-iot{
+    padding: 5px;
+}
+
+#botao-voltar{
+    text-decoration: underline;
+    color:blue;
+    font-size: 1.20em;
+    
+}
+
+.titulo{
+    margin-top: 40px;
+    color: rgba(44, 44, 84,1.0);
+    font-size: 1.2em;
+}
+#noticias-atuais{
+    background-color:#4682B4;
+    padding: 15px;
+    color: white;
+    
+}
+
+.box2{
+    width: 24%;
+    margin: 10px;
+    background-color:#e9e9e9;
+}
+
+.box{
+    width: 70%;
+    margin: 10px;
+ }
+.box h2{
+     text-decoration: underline;
+    text-decoration-color: rgb(255, 177, 66,1.0);
+}
+.box2 a{
+    text-align: justify;
+    color: black;
+    padding: 0px;
+}
+
+.box p{
+    text-align: justify;
+    color: black;
+    padding: 10px;
+}
+
+div.box-img {
+    width: 40%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+img.logo{
+    margin: 2px;
+    width: 20%;
+}
+
+.mapa{
+    width: 100%;
+    height: 100%;
+}
+
+.redes-sociais{
+    color: rgba(0, 168, 255,1.0);
+    font-size: 0.8em;
+}
+
+.redes-sociais img{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
+.menu{
+    background-image: linear-gradient(to bottom, rgba(99, 110, 114,1.0), rgba(178, 190, 195,1.0));
+    padding: 5px;
+
+ }
+
+.banner{
+    width: 100%;
+}
+
+
+li{
+    list-style-type: none; 
+    display: inline;
+    margin-left: 30px;
+    border-radius: 0.3em;
+    padding: 0.8em; 
+}
+
+a:hover{
+    text-decoration:underline;
+}
+a{
+    text-decoration: none;
+}
+
+a:active{
+   color: rgba(116, 185, 255,1.0);
+}
+
+h2{
+    text-transform: uppercase;
+}
+
